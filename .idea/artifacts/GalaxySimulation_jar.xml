@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GalaxySimulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GalaxySimulation_jar</output-path>
+    <root id="archive" name="GalaxySimulation.jar">
+      <element id="module-output" name="GalaxySimulation" />
+      <element id="extracted-dir" path="/Applications/scala-2.11.5/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/scala-2.11.5/lib/scala-swing_2.11-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/scala-2.11.5/lib/config-1.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
