@@ -2,6 +2,8 @@
 
 #### A demonstration of Barnes–Hut's algorithm for n-body simulations
 
+#### [see introduction here](https://mrvplusone.github.io/gallery-galaxySimulation.html)
+
 #### Main features:
 
 * A flexible displaying system: watch the simulation result as an animation, and you can move the viewport by dragging your mouse, zoom in or out by scrolling middle button.
@@ -11,7 +13,6 @@
 
 * Multi-threading support and calculating on the fly. You don't need to wait until all the calculation has been finished to watch the result.
 
-#### [introduction page](https://mrvplusone.github.io/gallery-galaxySimulation.html)
 
 #### Project is in Intellij IDEA format, but feel free to use any other IDE you prefer
 
